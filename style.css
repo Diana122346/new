@@ -1,0 +1,123 @@
+.rii{
+float: right;
+font-size: 22px;
+margin-right: 20px;
+}
+
+.tell{
+    font-size: 25px;
+    }
+
+
+header p{
+    color: rgb(83, 206, 206); 
+}
+
+
+header img{
+    height: 100px;
+    width:100px;
+}
+
+header{
+    border-bottom: 3px solid blue;
+}
+
+header a {
+    border-radius: 20px;
+    border: 2px solid  rgb(83, 206, 206);
+    text-decoration: none;
+    font-size: 28px;
+    float: right;
+    color: rgb(83, 206, 206) ;
+   margin-right: 40px;
+   margin-top: 29px;
+   padding: 8px;
+}
+
+header a:hover{
+    color: white;
+    background-color:rgb(92, 200, 200) ;
+}
+
+.vvv{
+    text-align: center;
+    color:rgb(30, 123, 216) ;
+    font-size: 44px;
+    
+}
+
+
+.icoon{
+    height: 70px;
+    width: 70px;
+    float: left;
+   
+}
+
+.cll{
+    color: rgb(230, 151, 42);
+    padding-top: 0;
+    padding-left: 80px;
+    font-size: 34px;
+    text-align:center ;
+}
+
+.div{
+    float: left;
+     padding-left: 110px;
+}
+
+.icon{
+height: 90px;
+width: 90px;
+}
+
+.clll{
+     color: rgb(238, 143, 33);
+    padding-left: 80px;
+    font-size: 34px;
+
+}
+
+.rrr{
+    height: 320px;
+    width: 580px;
+    float:left;
+    padding-left: 20px;
+}
+
+table{
+    padding-left:90px ;
+    
+}
+
+td{
+    font-size: 19px;
+    color: grey;
+     
+}
+
+.grr{
+    background-color: lightgray;
+    color:gray;
+}
+
+tr{
+  height: 45px;
+}
+ .vv{
+    text-align:left;
+    color:rgb(30, 123, 216) ;
+    font-size: 44px;
+    
+}
+
+.bbb{
+   color:rgb(238, 143, 33);
+   font-size: 34px;
+   padding-top: 24px;
+   padding-left: 900px;
+}
+
+
